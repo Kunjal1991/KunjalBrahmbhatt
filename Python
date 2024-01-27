@@ -1,0 +1,5 @@
+
+user_name = input("Enter your name: ")
+
+# Print a personalized greeting
+print(f"Hello, {user_name}! Welcome to Python scripting.")
